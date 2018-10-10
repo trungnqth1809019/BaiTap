@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/APT/FPT 20180917/KY I 20180917/CLionProjects/A20181010BaiTap1/main.c
+stdio.h
+-
+stdlib.h
+-
+
